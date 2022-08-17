@@ -2,5 +2,5 @@
 
 echo "Hello World!";
 
-echo "PR example";
+echo "PR example changed";
 ?>
